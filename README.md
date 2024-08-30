@@ -1,4 +1,10 @@
 # Handwritten Digit Classification using Convolutional Neural Networks (CNN)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
 
 This project utilizes a Convolutional Neural Network (CNN) to classify handwritten digits (0-9) from the popular MNIST dataset. The network is implemented using Keras with TensorFlow as the backend.
 
